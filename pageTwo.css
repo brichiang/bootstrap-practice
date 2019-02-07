@@ -1,0 +1,81 @@
+
+ body { 
+   background-image: url(images/art/stucco/stucco.png);
+} 
+
+/* header */
+
+header {}
+
+div#topHeaderRow {
+  
+}
+
+
+nav  ul{}
+nav  ul li {}   
+nav  ul li  a{}  
+
+div#topHeaderRow  a {}
+
+h1 {}
+
+div#mainNavigationRow {}   
+div#mainNavigationRow  a {}   
+
+/* main document */
+
+main {
+  width: 97%;
+  padding: .5em;
+  background-color: white;
+  border: solid 1pt #e7e7e7;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {}
+h3 {
+  border-bottom: solid 1pt #e7e7e7;
+}
+
+main figure {}
+main #info {}
+main .price {}
+main #buttons {}
+main #buttons button {}
+main #buttons button a {}   
+
+main table  th {}
+
+
+main #similar {}
+
+main #similar .box {}
+
+.centeredInside {}
+
+table.userform {}
+label {
+  display: block;
+}
+input[type='range'] {
+/*   display: inline-block;*/
+}
+
+input[type='radio'] {
+
+}
+.fancyBtn {}
+
+
+/* footer */
+
+footer {
+  clear: both;
+}
+footer #copyrightRow {}
+
+.skyblue{
+  color: #5ba2bf;
+}
